@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1: git init
 2: git add .
-3: git commit -m "Comment you have updated/added"
+3: git commit -m "Comment here what you have updated/added"
 4: git remote add origin https://github.com/PaulMac66/polaris-web.git
 5: git push -u origin master
 
