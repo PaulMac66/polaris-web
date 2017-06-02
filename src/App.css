@@ -1,0 +1,18 @@
+.Container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.Header {
+    padding: 15px;
+    background: #efefef;
+    height: 100px;
+}
+.Footer {
+    padding: 15px;
+    background: #efefef;
+    height: 100px;
+}
+.Main {
+    padding: 15px;
+    min-height: 500px;
+}
